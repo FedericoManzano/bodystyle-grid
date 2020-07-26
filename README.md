@@ -35,6 +35,7 @@ Podemos acceder a las explicaciones del funcionamiento de la grilla a través de
 
 ```txt
 npm i body-grid
+npm install @federicomanzano/bodystyle-grid@3.5.0
 yarn add body-grid
 ```
 
