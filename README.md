@@ -26,7 +26,7 @@ Podemos acceder a las explicaciones del funcionamiento de la grilla a través de
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Link con el CDN de los estilos css  -->
-    <link rel="stylesheet" href="https://rawcdn.githack.com/FedericoManzano/bodystyle/58a25e885718d0b2db6675c502ce6a41a45f373c/dist/css/bodystyle.min.css">
+    <link rel="stylesheet" href="https://rawcdn.githack.com/FedericoManzano/bodystyle-grid/54dbbc85a71587365f7acd072241e508e344c5d4/dist/css/grid.min.css">
 
 </head>
 ```
