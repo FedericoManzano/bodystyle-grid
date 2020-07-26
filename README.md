@@ -40,7 +40,7 @@ yarn add body-grid
 
 ## Licencia
 
-MIT (c) Bodystyle 2020 [Info]()
+MIT (c) Bodystyle 2020 [Info](https://github.com/FedericoManzano/bodystyle-grid/blob/master/LICENCE)
 
 
 
