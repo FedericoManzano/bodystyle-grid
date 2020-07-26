@@ -1,0 +1,34 @@
+{
+  "name": "body-grid",
+  "version": "3.5.0",
+  "description": "Grid de bodystyle para el reacomodamiento de los elementos en páginas web.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FedericoManzano/bodystyle-grid.git"
+  },
+  "keywords": [
+    "grid",
+    "grilla",
+    "css",
+    "sass",
+    "body-ui",
+    "bodystyle",
+    "frontend",
+    "material-ui",
+    "ui"
+  ],
+  "files": [
+    "dist/css/*.{css,map}",
+    "sass/**/*.scss"
+  ],
+  "author": "Federico Manzano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FedericoManzano/bodystyle-grid/issues"
+  },
+  "homepage": "https://github.com/FedericoManzano/bodystyle-grid#readme"
+}
